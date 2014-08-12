@@ -1,0 +1,3 @@
+APPLICATION_NAME=Excel Sheet to HTML Table
+EXECUTABLE=Excel Sheet to HTML Table.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Excel Sheet to HTML Table/manifest.xml

@@ -1,0 +1,6 @@
+Excel Sheet to HTML Table converts a given range on an Excel worksheet into a corresponding HTML table. The result of the conversion is saved as a text-based HTML file. To use the application, simply click on the Extact HTML button where you will be promted to first select your desired Excel workbook to extract from and the the Worksheet and Range (in the form of A1:X1) to convert. Once you have selected all these, the program automatically generates the corresponding HTML file which is then opened once the process completes.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 20/02/2008 --
